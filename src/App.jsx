@@ -3,6 +3,7 @@ const App = () => {
   return (
     <>
       <Hp />
+      <h1>This is home page</h1>
     </>
   );
 };
